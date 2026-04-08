@@ -74,3 +74,13 @@ Total Bugs Identified: 110
 
 - Negative Testing
 
+## Test Environment
+- Platform: Web Application
+
+- Environment: QA/Test Environment
+
+- OS: Windows 10
+
+- Browser: Google Chrome
+
+
