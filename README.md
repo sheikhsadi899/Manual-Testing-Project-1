@@ -48,5 +48,5 @@ The following modules were covered during testing:
 - Checkout & Payment – Validation of end-to-end purchase flow
 
 ## Test Results
-Total Bugs Identified: 112
+Total Bugs Identified: 110
 
