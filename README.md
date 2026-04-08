@@ -55,9 +55,9 @@ Total Bugs Identified: 110
 
 - Incorrect sorting/filtering behavior
 
--UI/UX inconsistencies
+- UI/UX inconsistencies
 
--Missing feedback messages
+- Missing feedback messages
 
--Functional defects in critical workflows
+- Functional defects in critical workflows
 
