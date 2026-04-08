@@ -9,9 +9,8 @@ The application allows users to browse products, apply filters, search items, an
 ## 🎯 Objective
 
 The main objective of this project was to:
-
-Identify functional defects in the application
-Validate core features and workflows
-Evaluate usability and user experience
-Ensure proper input validation and system behavior
+-Identify functional defects in the application
+-Validate core features and workflows
+-Evaluate usability and user experience
+-Ensure proper input validation and system behavior
 
