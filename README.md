@@ -47,7 +47,7 @@ The following modules were covered during testing:
 
 - Checkout & Payment – Validation of end-to-end purchase flow
 
-## Test Results
+## Test Results:
 Total Bugs Identified: 110
 
 ## Key Issues Found:
@@ -60,4 +60,17 @@ Total Bugs Identified: 110
 - Missing feedback messages
 
 - Functional defects in critical workflows
+
+## Testing Approach:
+- Manual Testing
+
+- Functional Testing
+
+- UI/UX Testing
+
+- Exploratory Testing
+
+- Boundary Value Analysis
+
+- Negative Testing
 
