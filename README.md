@@ -83,4 +83,8 @@ Total Bugs Identified: 110
 
 - Browser: Google Chrome
 
+## Repository Contents
+- 📄 Bug Report (PDF)
+
+
 
