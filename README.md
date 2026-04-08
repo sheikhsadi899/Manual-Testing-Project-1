@@ -19,7 +19,7 @@ The main objective of this project was to:
 - Ensure proper input validation and system behavior
 
 ## Scope of Testing
-The following modules were covered during testing:
+The following modules were covered during testing :
 
 - Product Listing Page – Verification of product display, layout, and pagination behavior
 
@@ -47,10 +47,10 @@ The following modules were covered during testing:
 
 - Checkout & Payment – Validation of end-to-end purchase flow
 
-## Test Results:
+## Test Results 
 Total Bugs Identified: 110
 
-## Key Issues Found:
+## Key Issues Found
 - Input validation errors
 
 - Incorrect sorting/filtering behavior
@@ -61,7 +61,7 @@ Total Bugs Identified: 110
 
 - Functional defects in critical workflows
 
-## Testing Approach:
+## Testing Approach
 - Manual Testing
 
 - Functional Testing
