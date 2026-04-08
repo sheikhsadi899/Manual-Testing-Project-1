@@ -7,6 +7,7 @@ This repository contains the results of a comprehensive manual testing effort co
 The application allows users to browse products, apply filters, search items, and complete purchases through a multi-step checkout process.
 
 ## Objective
+The main objective of this project was to:
 - Identify functional defects in the application
 
 - Validate core features and workflows
