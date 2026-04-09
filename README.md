@@ -65,6 +65,7 @@ Total Bugs Identified: 110
 - Functional defects in critical workflows
 
 ## 🧪 Testing Approach
+
 - Manual Testing
 
 - Functional Testing
@@ -78,6 +79,7 @@ Total Bugs Identified: 110
 - Negative Testing
 
 ## Test Environment
+
 - Platform: Web Application
 
 - Environment: QA/Test Environment
