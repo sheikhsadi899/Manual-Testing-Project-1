@@ -3,11 +3,15 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Bugs](https://img.shields.io/badge/Bugs-110-orange)
 
+---
+
 ## 📌 Project Overview
 This repository contains the results of a comprehensive **manual testing** effort conducted on a web-based e-commerce application:
 🔗 https://with-bugs.practicesoftwaretesting.com/
 
 The application allows users to **browse products, apply filters, search items, and complete purchases through a multi-step checkout process**.
+
+---
 
 ## 🎯 Objective
 The main objective of this project was to :
@@ -20,6 +24,8 @@ The main objective of this project was to :
 - Evaluate usability and user experience
 
 - Ensure proper input validation and system behavior
+
+---
 
 ## 🔍 Scope of Testing
 The following modules were covered during testing :
@@ -50,8 +56,12 @@ The following modules were covered during testing :
 
 - Checkout & Payment – Validation of end-to-end purchase flow
 
+---
+
 ## 📊 Test Results 
 Total Bugs Identified: 110
+
+---
 
 ## ⚠️ Key Issues Found
 - Input validation errors
@@ -63,6 +73,8 @@ Total Bugs Identified: 110
 - Missing feedback messages
 
 - Functional defects in critical workflows
+
+---
 
 ## 🧪 Testing Approach
 
@@ -78,6 +90,8 @@ Total Bugs Identified: 110
 
 - Negative Testing
 
+---
+
 ## 💻 Test Environment
 
 - Platform: Web Application
@@ -87,6 +101,8 @@ Total Bugs Identified: 110
 - OS: Windows 10
 
 - Browser: Google Chrome
+
+---
 
 ## 📁 Repository Contents
 - 📄 BUG REPORTS BY SHEIKH SADI (PDF)
