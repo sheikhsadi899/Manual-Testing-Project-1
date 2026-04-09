@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Bugs](https://img.shields.io/badge/Bugs-110-orange)
 
-## 📌Project Overview
+## 📌 Project Overview
 This repository contains the results of a comprehensive **manual testing** effort conducted on a web-based e-commerce application:
 🔗 https://with-bugs.practicesoftwaretesting.com/
 
@@ -64,7 +64,7 @@ Total Bugs Identified: 110
 
 - Functional defects in critical workflows
 
-## Testing Approach
+## 🧪 Testing Approach
 - Manual Testing
 
 - Functional Testing
