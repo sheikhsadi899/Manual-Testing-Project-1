@@ -76,7 +76,7 @@ Total Bugs Identified: 110
 
 ---
 
-## 🧪 Testing Approach
+## 🧪 Testing Types Performed
 
 - Manual Testing
 
@@ -106,6 +106,14 @@ Total Bugs Identified: 110
 
 ## 📁 Repository Contents
 - 📄 BUG REPORTS BY SHEIKH SADI (PDF)
+
+---
+
+## 👩‍💻 Author
+
+**Sheikh Sadi**  
+BSc in Computer Science & Engineering  
+Aspiring SQA Engineer
 
 ---
 
