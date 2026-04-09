@@ -1,4 +1,7 @@
-# E-Commerce Website Manual Testing Project
+# 🛒 E-Commerce Website Manual Testing Project
+![Testing](https://img.shields.io/badge/Testing-Manual-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Bugs](https://img.shields.io/badge/Test_Cases-110-orange)
 
 ## Project Overview
 This repository contains the results of a comprehensive manual testing effort conducted on a web-based e-commerce application:
