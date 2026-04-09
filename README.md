@@ -91,8 +91,11 @@ Total Bugs Identified: 110
 ## 📁 Repository Contents
 - 📄 BUG REPORTS BY SHEIKH SADI (PDF)
 
-📎 Note
-This project is created for learning and portfolio purposes, demonstrating practical manual testing skills, defect analysis, and structured reporting.
+
+## 📎 Note
+
+This project is created for **learning and portfolio purposes**, demonstrating practical **manual testing skills, defect analysis, and structured reporting**.
+ng.
 
 
 
