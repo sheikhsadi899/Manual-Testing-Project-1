@@ -9,7 +9,7 @@ This repository contains the results of a comprehensive **manual testing** effor
 
 The application allows users to **browse products, apply filters, search items, and complete purchases through a multi-step checkout process**.
 
-## Objective
+## 🎯 Objective
 The main objective of this project was to :
 - Identify functional defects in the application
 
@@ -21,7 +21,7 @@ The main objective of this project was to :
 
 - Ensure proper input validation and system behavior
 
-## Scope of Testing
+## 🔍 Scope of Testing
 The following modules were covered during testing :
 
 - Product Listing Page – Verification of product display, layout, and pagination behavior
@@ -50,10 +50,10 @@ The following modules were covered during testing :
 
 - Checkout & Payment – Validation of end-to-end purchase flow
 
-## Test Results 
+## 📊 Test Results 
 Total Bugs Identified: 110
 
-## 🔍 Key Issues Found
+## ⚠️ Key Issues Found
 - Input validation errors
 
 - Incorrect sorting/filtering behavior
@@ -88,7 +88,7 @@ Total Bugs Identified: 110
 
 - Browser: Google Chrome
 
-## Repository Contents
+## 📁 Repository Contents
 - 📄 BUG REPORTS BY SHEIKH SADI (PDF)
 
 
